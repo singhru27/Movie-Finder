@@ -12,7 +12,7 @@ This project is completed.
 
 #### Example:   
 
-![ScreenShot](https://raw.github.com/singhru27/Movie-Finder/main/screenshots/Home.png)
+![ScreenShot](https://raw.github.com/singhru27/Image-Album/main/screenshots/Home.png)
 
 ## Installation and Setup Instructions
 
