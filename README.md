@@ -6,7 +6,7 @@ A movie finding app that makes API requests to an external API and retrieves the
 
 ## Project Status
 
-This project is in progress.
+This project is completed.
 
 ## Project Screen Shot(s)
 
