@@ -1,7 +1,5 @@
 ## Project Name & Pitch
 
-Image Gallery:
-
 A movie finding app that makes API requests to an external API and retrieves the covers of movies that match the keywords typed in.
 
 ## Project Status
